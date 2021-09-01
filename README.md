@@ -105,3 +105,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+## Fun Facts
+* Daniel Day Lewis, the actor [famed for his method acting](https://www.thrillist.com/entertainment/nation/daniel-day-lewis-method-acting-stories) chose not to bathe while filming the adaptation of Arthur Miller's *The Crucible* in order to get into the mindset of a 17th Century American. Despite neglecting his hygiene to this disastrous level, somehow he sparked a romance with Miller's daughter on set, and they are now married!
