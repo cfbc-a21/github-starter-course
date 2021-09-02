@@ -32,6 +32,8 @@ Once you have a commit or multiple commits that you’re ready to add to your re
 
 ## 💻 GitHub terms to know 
 
+**halo, uchicago**
+
 ### Repositories 
 We mentioned repositories already, they are where your project work happens, but let’s talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you’re logged in to see it!
 
