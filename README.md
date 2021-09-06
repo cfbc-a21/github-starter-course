@@ -1,3 +1,5 @@
+Hey guys this is Jaden.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
